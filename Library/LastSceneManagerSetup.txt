@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Beginners/Scenes/TestLvl.unity
+- path: Assets/Study/_Beginners/Scenes/beginner_level.unity
   isLoaded: 1
   isActive: 1
